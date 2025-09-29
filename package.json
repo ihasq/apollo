@@ -1,0 +1,9 @@
+{
+	"name": "vro",
+	"dependencies": {
+		"acorn": "^8.15.0",
+		"astring": "^1.9.0",
+		"css-tree": "^3.1.0",
+		"stream-json": "^1.9.1"
+	}
+}

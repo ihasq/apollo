@@ -1,0 +1,1 @@
+export { default, componentA } from "./module/nigga.js"

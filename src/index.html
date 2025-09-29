@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FileSystem Dependency Graph</title>
+    <script src="https://unpkg.com/acorn/dist/acorn.js"></script>
+    <script src="main.js"></script> <!-- 上記の関数を保存したファイル -->
+</head>
+<body>
+    <button id="select-dir">ディレクトリを選択</button>
+    <pre><code id="mermaid-output"></code></pre>
+
+    <script>
+        document.getElementById('select-dir').addEventListener('click', async () => {
+            try {
+                const directoryHandle = await window.showDirectoryPicker();
+                const mermaidCode = await generateDependencyMermaid(directoryHandle);
+                document.getElementById('mermaid-output').textContent = mermaidCode;
+                console.log("--- Mermaid Code ---");
+                console.log(mermaidCode);
+            } catch (err) {
+                console.error("Error:", err);
+            }
+        });
+    </script>
+</body>
+</html>
