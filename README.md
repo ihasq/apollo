@@ -2,7 +2,8 @@
 Browser-based Cline clone with supression and divisioning.
 
 ## What's innovative
-Cuts down input token cost to 75% maximum.
++ Cuts down input token cost to 75% maximum.
++ Use comments to track changes like Apollo 11, which reduces git object access.
 
 ## Prequesties
 Currently working Node.js, Deno, or Bun.
