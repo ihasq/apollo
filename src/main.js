@@ -1,3 +1,5 @@
+import OpenAI from 'openai';
+
 // --- ファイルとディレクトリの処理 ---
 
 /**
