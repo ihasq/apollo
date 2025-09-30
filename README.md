@@ -1,9 +1,9 @@
-# ApolloLM - Vibe Coder. Suppressor Included.
+# Apollo - Vibe Coder. Suppressor Included.
 Browser-based AI wrapper for web development with supression and divisioning.\
-Visit our browser edition without command executor: [apollo-lm.github.io](https://apollo-lm.github.io).
+Visit our browser edition without command executor: [apollo-coder.github.io](https://apollo-coder.github.io).
 
 ## What's innovative
-+ Cuts down input token cost to **80%** maximum.
++ Apollo aims to slash token costs by up to **88%**, just as NASA achieved a moonshot with 8-bit computers.
 + Use original logger to track changes like NASA's ancient codebase, which reduces git object access.
 
 ## Limitation
@@ -27,5 +27,5 @@ apollo-lm
 
 ## Prequesties
 + OpenAI or OpenAI-compatible LLM's valid API key. [Ask Gemini to get latest available LLMs](https://g.co/gemini/share/2fefaf86b73c).
-+ Chromium-based latest web browser, such as Chrome/Edge/Opera, which supports FileSystem Access API.
++ Chromium-based latest web browser, which supports FileSystem Access API and Document PIP.
 + `Node.js > v17` if you are going to use native edition.
