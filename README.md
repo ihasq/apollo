@@ -7,7 +7,7 @@ Browser-based Cline clone with supression and divisioning.
 + Use comments to track changes like Apollo 11, which reduces git object access.
 
 ## Limitation
-+ **You cannot edit the code Divi built.** Divi is like a keyboard, which is the only person that touches your code. you can observe or mark it, but cannot modify.
++ **Divi is not your copilot.** Divi is an independent SWE, who understands your order and writes working code. you can observe and order it, but cannot modify by yourself.
 
 ## Prequesties
 Chromium-based browser like Chrome/Edge/Opera, which supports FileSystem Access API.
