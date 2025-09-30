@@ -4,10 +4,11 @@ Visit our online demo: [apollo-webdev.github.io](https://apollo-webdev.github.io
 
 ## What's innovative
 + Cuts down input token cost to 80% maximum.
-+ Use comments to track changes like NASA's codebase, which reduces git object access.
++ Use comments to track changes like NASA's ancient codebase, which reduces git object access.
 
 ## Limitation
-+ **Divi is not your copilot.** Divi is an independent SWE, who understands your order and writes working code. you can observe and order it, but cannot modify by yourself.
++ **Apollo is not your copilot.** Apollo is an independent web developer, who understands your order and writes working code. you can observe and order it, but cannot modify by yourself.
 
 ## Prequesties
-Chromium-based web browser like latest Chrome/Edge/Opera, which supports FileSystem Access API.
++ OpenAI or OpenAI-compatible LLM's valid API key. [Ask Gemini to get available LLMs](https://g.co/gemini/share/95bddb6381e8).
++ Chromium-based latest web browser, such as Chrome/Edge/Opera, which supports FileSystem Access API.
