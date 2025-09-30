@@ -3,8 +3,7 @@ Browser-based AI wrapper for web development with supression and divisioning.\
 Visit our browser edition without command executor: [apollo-coder.github.io](https://apollo-coder.github.io).
 
 ## What's innovative
-+ Apollo aims to slash token costs by up to **88%**, just as NASA achieved a moonshot with 8-bit computers.
-+ Use original logger to track changes like NASA's ancient codebase, which reduces git object access.
++ Apollo aims to slash token costs by up to **88%**, just as NASA went to the moon [~~*or does it*~~](https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories) with 8-bit computers.
 
 ## Limitation
 + **Apollo is not your copilot.** Apollo is an independent web developer, who understands your order and writes working code. you can observe and order it, but cannot modify by yourself.
