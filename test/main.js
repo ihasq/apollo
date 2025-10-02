@@ -1,1 +1,1 @@
-export { default, componentA } from "./module/nigga.js"
+export { default, componentA } from "./module/ok.js"
